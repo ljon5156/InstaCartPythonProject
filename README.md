@@ -1,10 +1,10 @@
 # InstacartPythonProject
 
-This project contains Python code based on fictional data from Instacart as part of CareerFoundry's Data Analytics PRogram. 
+This project contains Python code based on fictional data from Instacart as part of CareerFoundry's Data Analytics Program. 
 
 # Objective
 
-Instacart is an online grocery store that operates through an app. They already have good sales but want to learn more information about their sales patterns. The goal of this project is to derive insights and suggest strategies to increase revenue.
+Instacart is an online grocery store that operates through an app. They already have good sales but want to learn more information about their sales patterns. The goal of this project is to derive insights and suggest possible strategies to increase revenue.
 
 # Data
 
